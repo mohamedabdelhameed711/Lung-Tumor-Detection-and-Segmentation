@@ -17,7 +17,6 @@ This project is a web-based application built with **Dash** that enables users t
 - 📊 Dash
 - 🖼️ OpenCV for image processing
 - 📄 FPDF for PDF generation
-- 🧠 Pretrained segmentation/detection model (optional/custom)
 
 ## 📦 Installation
 
