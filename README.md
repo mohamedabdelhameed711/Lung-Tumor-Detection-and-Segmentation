@@ -19,7 +19,7 @@ This project is a web-based application built with **Dash** that enables users t
 
 - 🐍 Python
 - 📊 Dash
-- 🖼️ OpenCV for image processing
+- 🖼️ PIL for image processing
 - 📄 FPDF for PDF generation
 
 ## 📦 Installation
