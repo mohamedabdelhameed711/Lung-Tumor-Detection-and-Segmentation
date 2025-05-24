@@ -1,0 +1,7 @@
+dash
+dash-bootstrap-components
+torch
+torchvision
+Pillow
+fpdf
+numpy
