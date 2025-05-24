@@ -3,6 +3,10 @@
 
 This project is a web-based application built with **Dash** that enables users to upload lung CT scan images, detect tumors, and view a segmented report in PDF format.
 
+## 🖼️ Live Demo
+
+![App Demo](assets/demo.gif)
+
 ## 🚀 Features
 
 - Upload CT scan images using drag-and-drop or file selection.
@@ -92,6 +96,8 @@ LUNG-TUMOR-DETECTION-AND-SEGMENTATION/
 │   ├── validate_detection.py         # Validate object detection model
 │   ├── validate_segmentation_crop.py # Validate cropped segmentation
 │   └── validate_segmentation_full.py # Validate full image segmentation
+├── assets/
+│   ├── demo.gif
 
 ```
 
