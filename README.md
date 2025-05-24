@@ -26,8 +26,8 @@ This project is a web-based application built with **Dash** that enables users t
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/lung-tumor-segmentation-dash.git
-   cd lung-tumor-segmentation-dash
+   git clone https://github.com/yourusername/Lung-Tumor-Detection-and-Segmentation.git
+   cd Lung-Tumor-Detection-and-Segmentation
 ```
 
 2. Create and activate a virtual environment:
